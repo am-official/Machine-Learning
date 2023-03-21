@@ -20,7 +20,6 @@ This repository is intended to help you prepare for machine learning interviews 
 
 **Topics Covered**
 
-The interview questions in this repository cover a range of topics related to machine learning, including:
 
 Linear and logistic regression
 Decision trees and random forests
