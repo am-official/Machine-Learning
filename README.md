@@ -1,11 +1,12 @@
 # Machine-Learning
 "Unlock the insights hidden in data with machine learning - let's explore some key interview questions together!"
 
-**Machine Learning Interview Questions
-**
+**Machine Learning Interview Questions**
+
 This repository contains a collection of key interview questions related to machine learning. It is designed to help aspiring data scientists, machine learning engineers, and other professionals in the field prepare for technical interviews.
 
 **Table of Contents**
+
 Introduction
 Topics Covered
 Installation and Usage
